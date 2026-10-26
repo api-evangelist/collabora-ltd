@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Collabora Ltd. is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.collabora.com/
+Collabora Ltd. is an open‑source software consulting company founded in 2005, helping clients across automotive, digital TV, silicon, OEM, and VR/AR industries to integrate, optimize, and maintain open‑source solutions. They provide services such as guide, train, build, integrate, optimize, and maintain, and contribute to projects like LibreOffice, GStreamer, Wayland, and Linux kernel.
+
+**Areas:** Company · OpenSource · Consulting · Software · Services
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.collabora.com/)
+- [Documentation](https://www.collabora.com/sitemap.xml)
+- [Support](https://support.collabora.com/otrs/customer.pl)
+- [Privacy policy](https://www.collabora.com/privacy-notice.html)
+- [GitHub](https://github.com/collabora)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/collabora-ltd/](https://apis.io/providers/collabora-ltd/).
